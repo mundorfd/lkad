@@ -1,6 +1,6 @@
 ---
 created: 2024-04-15 14:04
-modified: 2024-04-15 14:04
+modified: 2024-04-22 18:04
 tags: "#LKAD"
 ---
 
@@ -10,18 +10,19 @@ tags: "#LKAD"
 
 [Code Highlight](https://www.eduappcenter.com/apps/6199) is a Canvas app that provides syntax highlighting for code snippets used in Canvas. It works with various programming languages, including JavaScript, Python, Java, HTML/CSS, PHP, C/C++, and SQL. The tool allows users to customize the color scheme and formatting of code snippets to match their preferences. Code Highlight is integrated into the Rich Content Editor in Canvas.
 
-![](./../images/code_highlight_2.png)
+![](./images/code_highlight_2.png)
 
-Here's some examples of how
-![](./../images/code_highlight_1.png)
+Here are some examples of how the highlighting looks after using the LTI app on a selected code snippet:
+
+![](./images/code_highlight_1.png)
 
 ## Instructions
 
 - [Installation Instructions](https://www.wyelearning.com/support/code-highlight/#installation)
 - [Demo on YouTube](https://youtu.be/cqFcjX3VN8U?si=KxLveauikkM3lvu4)
 
-![](./../images/code_highlight.mp4)
-![](./../images/code_highlight_3.png)
+![](./images/code_highlight.mp4)
+![](./images/code_highlight_3.png)
 
 ## Additional Resources
 
@@ -57,13 +58,12 @@ The following themes passed the Accessibility checker integrated into the Rich C
 - VS2015
 - Xcode
 - XT256
-![](./../images/code_highlight_3.png)
-
+![](./images/code_highlight_3.png)
 
 UDOIT flags all the light ones, and here's why: for some reason, it thinks the background is black. It must have something to do with the way the CSS is written that throws it off.
-![](./../images/code_highlight_5.png)
+![](./images/code_highlight_5.png)
 
-![](./../images/udoit.png)
+![](./images/udoit.png)
 
 ## Related Ideas
 
