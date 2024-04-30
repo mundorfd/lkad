@@ -1,8 +1,9 @@
 ---
 created: 2024-04-15 16:04
-modified: 2024-04-22 18:04
+modified: 2024-04-30 12:04
 tags:
   - "#LKAD"
+title: Status
 ---
 
 # Status
@@ -13,7 +14,7 @@ tags:
 
 #### ME 383
 
-- Held a debrief with Matt Campbell about how this course went. Group labs went well. Discussed a few Academic Integrity concerns (thinks students are working together on Homework in Discord). He may use a proctored final exam in the future, since he is uncomfortable with the large window it needs to be open. 
+- Held a debrief with Matt Campbell about how this course went. Group labs went well. Discussed a few Academic Integrity concerns (thinks students are working together on Homework in Discord). He may use a proctored final exam in the future, since he is uncomfortable with the large window it needs to be open.
 
 ### S24
 
@@ -25,10 +26,11 @@ tags:
 	- Samuel, A., & Conceição, S. C. O. (2022). Using the Critical Incident Questionnaire as a Formative Evaluation Tool to Inform Online Course Design: A Qualitative Study. International Review of Research in Open and Distance Learning, 23(2), 151--169. <https://doi.org/10.19173/irrodl.v23i2.5959>
 	- <https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/resources/active-learning-strategy-mud-cards/>
 - He was convinced, so I built and added a [midterm survey](https://canvas.oregonstate.edu/courses/1970784/assignments/9669267?module_item_id=24401199) with questions Andrew developed to get student feedback on course workload and material.
-##### New BDS 599 to-dos for Deb
+
+##### New BDS 599 To-dos for Deb
 
 - There are still a couple of things he wants to redo in the current course (adding a discussion to week 6, modifying a week 10 discussion to an assignment)
-- There are a handful more he wants to make to a studio site for next time. 
+- There are a handful more he wants to make to a studio site for next time.
 
 #### CS 201
 
@@ -70,14 +72,17 @@ tags:
 
 #### CS 493
 
-- Nauman asked for updates to his Qualtrics Mud card surveys. He wanted to see the survey responses in Speedgrader and the grade synchronization settings. 
+- Nauman asked for updates to his Qualtrics Mud card surveys. He wanted to see the survey responses in Speedgrader and the grade synchronization settings.
+
 #### SOC 280
 
 - I completed building her final staged project the one that uses the custom media in the second half of the course. I developed a significant amount of the text, assignment design, and rubric criteria for this one. Pretty proud of how it turned out and Lori is very happy: Here is an overview and listing and link to all the related assignments [🌎 GeoCaching Project Overview: INTRO TO ENVIRONMENT & SOCIETY (SOC_280_400_S2024)](https://canvas.oregonstate.edu/courses/1981351/pages/geocaching-project-overview?module_item_id=24390585)
 
 | ![](./images/geocache1.png) | ![](./images/geocache2.png) | ![](./images/geocache3.png) | ![](./images/geocache4.png) |
 |:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
+
 - The remaining tasks on this course are not building, admin stuff like backup, essentials, etc
+
 #### AEC 250 & NSE 515
 
 No updates to status from last week
@@ -156,10 +161,10 @@ No updates to status from last week
 - Akira pulled several projects we could look at that historically that might have lessons learned.
 - Nick and Tiana worked on a QA testing scope document
 - Elisabeth updated and shared UX testing scope
+
 ### Micron
 
 - Karen emailed today (April 22, 2024) and said that I need to help respond to the Micron proposal and, presumably, am going to be tapped for building the course. She wants this to Shannon/Jessica by the end of this week.
-
 
 ### Other
 
