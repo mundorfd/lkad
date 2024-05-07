@@ -76,10 +76,7 @@ tags:
 
 #### CS 372
 
-#### CS 561
 
-- Check-in a meeting with media on two custom projects. Finalized feature set.
-- He has also asked me to setup him up with graded H5P activities. I want to discuss this further using information from the [H5P Canvas Integration – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/h5pcanvas/) page.
 
 #### MAST 201
 
@@ -129,9 +126,11 @@ tags:
 #### CS 561
 
 - Met with custom media team on his two tools, team builder and reflect.
-- Discussed project extension with Chris. He is ok pausing after we wrap up development of module 2
+- Check-in a meeting with media on two custom projects. Finalized feature set.
+- He has also asked me to setup him up with graded H5P activities. I want to discuss this further using information from the [H5P Canvas Integration – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/h5pcanvas/) page.
+- Discussed project extension with Chris. 
 - He was excited about his Cheetah icon
-![[./images/icon_cheetah.png]]
+![./images/icon_cheetah.png]
 
 ## Non-Course Projects
 
