@@ -131,7 +131,8 @@ tags:
 - Met with custom media team on his two tools, team builder and reflect.
 - Discussed project extension with Chris. He is ok pausing after we wrap up development of module 2
 - He was excited about his Cheetah icon
-![[icon_cheetah.png]]
+![[./images/icon_cheetah.png]]
+
 
 ## Non-Course Projects
 
