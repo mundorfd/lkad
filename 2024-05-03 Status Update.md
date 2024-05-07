@@ -76,7 +76,7 @@ tags:
 
 #### CS 372
 
-
+- No updates this week. I need to coordinate with Dana, Samina has been slow in delivering content.
 
 #### MAST 201
 
@@ -99,10 +99,10 @@ tags:
 
 - At our last check in, Joe said he had four modules ready to go. He didn't show up for our meeting (said he meant to cancel since he hadn't made progress). The module overview templates were missing, but there were slides, assignments, quizzes, and materials we could work on.
 - I met with Haley and discussed what could be done and where to start. Here's what our plan was
-	- build the lab assignments
-	- review the PPTs for accessibility and update them, export them to PDFs
-	- modify the PPTs to 16:9 format
-	- build quizzes.
+    - build the lab assignments
+    - review the PPTs for accessibility and update them, export them to PDFs
+    - modify the PPTs to 16:9 format
+    - build quizzes.
 - I started his syllabus
 
 #### CS 161
@@ -128,9 +128,9 @@ tags:
 - Met with custom media team on his two tools, team builder and reflect.
 - Check-in a meeting with media on two custom projects. Finalized feature set.
 - He has also asked me to setup him up with graded H5P activities. I want to discuss this further using information from the [H5P Canvas Integration – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/h5pcanvas/) page.
-- Discussed project extension with Chris. 
+- Discussed project extension with Chris.
 - He was excited about his Cheetah icon
-![./images/icon_cheetah.png]
+ ![/images/icon_cheetah.png]
 
 ## Non-Course Projects
 
@@ -150,8 +150,6 @@ tags:
 New or updated this week:
 
 - [Perusall Grade Syncing](https://github.com/mundorfd/faculty-comms/blob/fb74d9e87c5dfe1d102ea03587db0b0beab2275c/Perusall%20Grade%20Syncing.md)
-
-### Internship Program
 
 ### Onboarding New IDs
 
