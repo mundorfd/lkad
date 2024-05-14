@@ -70,14 +70,6 @@ No updates: CS 161, CE 382
 |![](images/FF-Info2.png) |![](images/FF-Info1.png) |
 | ------------------------ | ------------------------ |
 
-### Faculty Communications Manual
-
-### H5P Admin
-
-- Discussed H5P integration options and issues​
-
-### IDKB
-
 ### QM Pre-Review
 
 - Heard back from Peder regarding the Quality Matters pre-review for GEOG 380, identified with him some next tasks.
