@@ -41,7 +41,7 @@ modified: 2023-12-26 10:12
 
 #### MB 302
 
-#### NMC 3xx
+#### NMC 333
 
 ## Non-Course Projects
 

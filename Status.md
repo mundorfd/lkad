@@ -30,15 +30,9 @@
 
 #### CS 372
 
-#### CS 464
-
-#### CS 561
-
 #### MAST 201
 
-#### MB 302
-
-#### NMC 3xx
+#### NMC 333
 
 ### F24
 
@@ -52,12 +46,11 @@
 
 #### MAST 300
 
+### W25
+
 #### CS 561
 
-
 ## Non-Course Projects
-
-### AA FF Workshop
 
 ### UQATE Taskforce
 

@@ -113,7 +113,7 @@ No updates to status from last week
 - While Lori hasn't delivered the modules to me yet, much of the course is laid out in [a document she is working on](https://oregonstate.box.com/s/1i21q3ulskzmdo3ccxjxvrrztpjcpmqq). She has documented the planned learning materials for the whole course, along with an idea of what activities she plans to have students do each week. (thus the 15% progress)
 - We will now meet weekly, trying to stay on top of this and MAST 300; she has a lot on her plate.
 
-#### NMC 3xx
+#### NMC 333
 
 - Had a custom media meeting with Alina and the web team
 - Took several notes about what Alina needs to provide the team

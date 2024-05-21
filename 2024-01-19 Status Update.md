@@ -97,7 +97,7 @@ Each module contains:
 * held intake with Linda, she classified this as a major redevelopment
 	* outlined media plan which includes an h5P site, a jeopardy style game and narrated lectures
 
-#### NMC 3xx
+#### NMC 333
 
 * Intake with Alina
 * She does not yet have learning outcomes. The proposal is pending, she anticipates acceptance by the end of Winter term.

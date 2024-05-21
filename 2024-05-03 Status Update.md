@@ -82,7 +82,7 @@ tags:
 
 - After researching several options I submitted a request to the [Ecampus Technology Evaluation Committee – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/ecampus-technology-evaluation-committee/). I would like students to have the option to [record desktop audio](https://support.audacityteam.org/basics/recording-desktop-audio) using [Audacity ®](https://www.audacityteam.org/). Found [Accessibility - Audacity Manual](https://manual.audacityteam.org/man/accessibility.html) and [Privacy - Audacity Forum](https://forum.audacityteam.org/privacy) and forwarded to the Ecampus Technology Team
 
-#### NMC 3xx
+#### NMC 333
 
 - Put together [course weekly topic outline](https://oregonstate.box.com/s/l5ert3h6vd042yuapc3o2t27p4dz2mqq) from earlier discussions
 - Alina committed to getting to 40% by next meeting

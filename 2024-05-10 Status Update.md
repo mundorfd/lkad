@@ -30,7 +30,7 @@ tags: #LKAD
 
 - Reviewed the first module in Canvas with Ami.
 
-#### NMC 3xx
+#### NMC 333
 
 - I met with Alina, and she's made great progress, overview content for every module and learning materials almost all selected. Assessments next and assignments for the custom app
 - Reviewed literature on [Online Dating and Romance](https://www.researchrabbitapp.com/collection/public/R6DP8NN26P) and created a collection to collaborate with Alina. Looking in particular about for topics around experiences of specific populations (with disabilities, minorities), impact on mental health, and the qualification requirements and use of dating coaches.
