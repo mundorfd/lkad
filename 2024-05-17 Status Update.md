@@ -83,7 +83,8 @@ tags: LKAD
 - Reviewed learning materials for modules 6 & 9. Completed two assignments as a test run.
 - Cleaned up several pages with accessibility and layout issues
 - Setup H5P site
-- I tried to develop an activity for this course in H5P, but ran into limitations with colons in the answers. Setup a demo site with new quizzes and built in that. Thanks for the idea!
+- I tried to develop an activity for this course in H5P, but ran into limitations with colons in the answers. Setup a demo site with new quizzes and built-in that. Thanks for the idea!
+
 ![](./images/cs161matching.png)
 
 #### ENGR 103
