@@ -64,7 +64,11 @@ UDOIT flags all the light ones, and here's why: for some reason, it thinks the b
 ![](./images/code_highlight_5.png)
 
 ![](./images/udoit.png)
+### Course Documentation
 
+Here's what I have written in the Salesforce Course Record:
+
+> The accessibility checker in Canvas is flagging code blocks for having insufficient text color contrast because it thinks the background is black. The tool we're using for syntax highlighting is adding styles that the accessibility checker doesn't interpret correctly.
 ## Related Ideas
 
 - [[Canvas]]
