@@ -27,7 +27,7 @@ tags: #LKAD
 #### CS 290
 
 - Going through all pages to update inline code and code blocks to use updated syntax-aware styling.
-	- ![](./images/cs290_syntax.png)
+![](./images/cs290_syntax.png)
 - reviewing and cleaning up exploration pages in progress
 
 #### CS 332
@@ -43,10 +43,10 @@ tags: #LKAD
 - Sent an urgent email to Lori to address delays in course development progress. The email highlighted the current status, outlined missed milestones, and provided action steps to get back on track. Emphasized the importance of timely content delivery and maintaining quality standards. Requested an estimated delivery schedule for remaining content and encouraged communication of any challenges.
 - Inspired by the showcase at CDT, I reached out to Rick and Tenley about the field trip videos they shot last week to see if they had any "behind the scenes" photos I could include in the course site. Drafted and emailed the course instructor proposing incorporating behind-the-scenes (BTS) content into MAST 201. The proposal includes using BTS photos and videos from the Coast Interviews to create engaging "Field Trip" pages that provide context for each interview, detailed insights into the interview preparation process, and active learning discussions linked to course learning outcomes. Shared relevant BTS content and showcased presentation slides to illustrate the concept.
 - Received an update from Lori on her progress and goals for MAST 201. She has:
-	  - Almost completed draft of the weekly topics/outlines and started transferring learning materials to the weekly content folders
-	  - Drafted material for Week 1 in the Weekly Content Folder.
-	  - Updated the syllabus with learning outcomes/assessment table, grading criteria, and table of course content.
-	  - Completed the recording of the last interviews.
+    - Almost completed draft of the weekly topics/outlines and started transferring learning materials to the weekly content folders
+    - Drafted material for Week 1 in the Weekly Content Folder.
+    - Updated the syllabus with learning outcomes/assessment table, grading criteria, and table of course content.
+    - Completed the recording of the last interviews.
 - this is enough to at least let me get started setting up her shell site with module overviews, weekly topics. and perhaps getting some content into the learning materials pages
 
 #### NMC 333
@@ -98,10 +98,10 @@ Haley has been working on his slides, so I met with her as well to discuss what 
 
 - Attended AI Council 2.0 meeting
 - Prepped for meeting by outlining topics I thought worth pursuing (Karen's prompts: what's exciting, what's scary)
-	- Exciting
-		- employees building and sharing GPTs to solve their own problems, automate work
-		- creating educational content (explainer animations, visuals, alt text, infographics)
-		- customized tutoring
-	- Scary
-		- harder to design assessments that AI can't do
-		- Interference in democratic institutions by propagating fake information and content
+- Exciting
+- employees building and sharing GPTs to solve their own problems, automate work
+- creating educational content (explainer animations, visuals, alt text, infographics)
+- customized tutoring
+- Scary
+- harder to design assessments that AI can't do
+- Interference in democratic institutions by propagating fake information and content
