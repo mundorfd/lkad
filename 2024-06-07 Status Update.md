@@ -17,8 +17,7 @@ tags: #LKAD
 - Wrote up Quiz Feedback
 - Migrated course site and linked course with Gradescope
 - Created a no-stakes practice activity for Gradescope
-- Wrote [extensive student-facing instructions for the Gradescope Assignment submission](./images/gradescope.png)
-
+- Wrote [extensive student-facing instructions for the Gradescope Assignment submission](./images/gradescope.png). (screenshot too long but visible at link)
 ### U24
 
 #### CS 290
